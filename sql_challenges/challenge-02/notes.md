@@ -1,0 +1,1 @@
+Joins in SQL are useful because they allow you to retrieve related data that is stored across multiple, separate database tables, which is the core principle of a well-organized relational database. Instead of storing all information in one large, inefficient table, joins let you link relevant records dynamically. 
