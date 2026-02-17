@@ -1,0 +1,1 @@
+Solutions to Lesson 6 and 7 of SQLBolt and the interview question
