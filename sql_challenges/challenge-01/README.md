@@ -1,0 +1,1 @@
+Queries for exercise 1 to 5 in sqlbolt
