@@ -1,0 +1,3 @@
+In this class we learned about SQL set operators, especially UNION and INTERSECT, these operators allow us to combine or compare the results of two queries. 
+UNION is used to join the results and remove duplicate values, while INTERSECT returns only the values that appear in both queries.
+We also saw that both SELECT statements must have the same number of columns and compatible data types. Using these operators helps when we want to analyze data that comes from different tables.
