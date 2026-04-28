@@ -1,0 +1,2 @@
+Today I learned how to make a backup of a database schema and how to restore it using SQL tools, I understood that using DBMS_METADATA we can extract the structure of tables, indexes, and other objects, which is useful when we need to move a database to another environment and I also realized that it is important to clean the DDL to make it portable and to respect the correct order when restoring objects to avoid errors. 
+Overall, this helped me see that backups are not just copies, but a structured process that requires planning and understanding of dependencies.
