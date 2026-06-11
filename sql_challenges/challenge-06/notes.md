@@ -1,0 +1,2 @@
+Today we learned about triggers and I understood that they are automatic actions that run when something happens in a table, like inserting, updating, or deleting data. They help control what happens in the database without the user doing everything manually, for example saving the date or the user automatically.
+We also saw that triggers can be used to restrict actions, like preventing someone from updating or deleting data if they don’t have permission. I still get a bit confused but I understand the general idea of how triggers work and why they are useful.
